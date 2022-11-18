@@ -3,7 +3,7 @@ import { TfiHandPointRight } from 'react-icons/tfi';
 
 const Home = () => {
   return (
-    <div name='home'className='w-full h-screen bg-[#fdfcfb] '>
+    <div name='home'className='w-full h-screen bg-[#fdfcfb]'>
        <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
        <p className='text-[#e40f0f]'>Hello, my name is </p>
        <h1 className='text-4xl sm:text-7xl font-bold text-[#0e0c0c]'>Jiovani Rivera</h1>
